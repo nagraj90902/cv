@@ -1,0 +1,52 @@
+body {
+  background-color: powderblue;
+}
+h1 {
+  text-align: center;
+  font-family: Verdana;
+  background-color: aquamarine;
+  margin: 0%;
+}
+table {
+  background-color: antiquewhite;
+}
+
+td {
+  border: 1px dotted grey;
+}
+td {
+  padding: 5px;
+  text-align: center;
+}
+.photo {
+  padding-top: 10px;
+  float: right;
+}
+.photo img {
+  border-radius: 50%;
+}
+
+h3 {
+  font-size: x-large;
+}
+ul,
+ol {
+  background-color: antiquewhite;
+}
+.links {
+  background-color: transparent;
+}
+.footer {
+  float: inline-end;
+  border: 0px;
+  font-size: small;
+
+  left: 10px;
+  bottom: 5px;
+  right: 10px;
+  width: 95%;
+  align-items: center;
+}
+td {
+  padding-right: 30px;
+}
